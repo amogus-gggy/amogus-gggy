@@ -3,35 +3,62 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flet-007BFF?style=for-the-badge&logo=flet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ### 👋 Привет, я **@amogus-gggy**
 
-> *“Writing code that doesn’t just work — but *feels* right.”*
+> *"Writing code that doesn't just work — but *feels* right."*
 
-Я — разработчик на **Python**, увлечённый созданием **элегантных**, **масштабируемых** и **красивых** приложений. Моя страсть — превращать сложные идеи в простые, интуитивные интерфейсы с мощной тыловой логикой.
+Я — разработчик на **Python**, увлечённый созданием **элегантных**, **масштабируемых** и **красивых** приложений. Мой девиз — качество кода и внимание к деталям.
 
-Сегодня я активно работаю с:
+#### 🎯 Текущие интересы:
 - 🐍 **Python** — мой родной язык
 - ⚡ **FastAPI** — для быстрых, надёжных и документированных API
-- 🎨 **Flet** — чтобы создавать кроссплатформенные GUI-приложения с минимумом кода
-- 🗃️ **SQL** — для точного и эффективного управления данными
+- 🎨 **Flet** — кроссплатформенные GUI-приложения с минимумом кода
+- 🗃️ **SQL** — точное управление данными
+- 🔐 **Security & Obfuscation** — защита и оптимизация кода
 
 ---
 
-### 🛠️ Что я строю
+### 🛠️ Основные проекты
 
-LumoPy IDE - готовится большое обновление.
+#### 🔐 **PyLock** — Обфускатор для Python 3
+Мощный инструмент для защиты и обфускации Python-кода. Помогает скрыть логику приложения и усложнить реверс-инжиниринг.
+- 🚀 Вскоре на GitHub
 
-F-msg Private messenger - в активной разработке
+#### 💬 **Fmsg-messenger** — Приватный мессенджер
+Безопасный мессенджер с фокусом на приватность и надёжность. Активная разработка.
+- 📍 В разработке
+
+#### 🖥️ **LumoPy IDE** — Интегрированная среда разработки
+IDE для Python с удобным интерфейсом. Готовится большое обновление.
 
 ---
 
-### 📈 Навыки
+### 📊 Навыки
 
-```plaintext
-Python      🐍  |  FastAPI     ⚡  |  Flet        🎨
-SQL         🗃️  |  MySQL    |  SQLite      📊
-Pydantic    ✅  |  Alembic     🛠️  |  Docker      🐳
+```
+Python       🐍  │  FastAPI      ⚡  │  Flet        🎨
+SQL          🗃️  │  MySQL        📊  │  SQLite      💾
+Pydantic     ✅  │  Alembic       🛠️  │  Docker      🐳
+Obfuscation  🔐  │  Security      🛡️  │  REST API    📡
+```
+
+---
+
+### 💡 Философия
+
+Я верю в то, что хороший код — это:
+- 📝 Понятный и хорошо документированный
+- ⚙️ Масштабируемый и maintainable
+- 🎯 Решающий реальные проблемы
+- 🚀 Оптимизированный по производительности
+
+---
+
+### 📫 Связь
+
+Если тебе интересно сотрудничество или просто хочешь поговорить о коде — добро пожаловать! 🤝
