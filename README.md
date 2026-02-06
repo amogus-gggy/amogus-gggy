@@ -1,61 +1,59 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flet-007BFF?style=for-the-badge&logo=flet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+# Python Security & Obfuscation Developer
+
+## About Me
+I am a Python developer focused on **code obfuscation**, **reverse engineering**, and **software protection**.  
+My work is centered around understanding how applications are analyzed and reversed, and designing techniques that make this process significantly harder.
+
+I primarily use Python 3 to build backend services, desktop applications, and security-related tooling, with a strong interest in protecting source code and logic from analysis.
+
+## Badges
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)
+![SQL](https://img.shields.io/badge/SQL-Databases-orange?logo=postgresql)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-Security-red)
+![Obfuscation](https://img.shields.io/badge/Code-Obfuscation-purple)
+![Malware Research](https://img.shields.io/badge/Malware-Research-black)
+
+## Tech Stack
+### Core
+- **Python 3**
+- **FastAPI** – backend APIs and internal services
+- **SQL** – database design, queries, optimization
+
+### UI / Desktop
+- **Flet**
+- **PySide (Qt for Python)**
+
+### Security
+- Reverse engineering of applications
+- Code obfuscation techniques
+- Anti-analysis and anti-debugging concepts
+- Development of custom protection tools
+
+## What I Do
+- Design and implement Python code protection mechanisms
+- Analyze how applications are reversed and deobfuscated
+- Research obfuscation techniques and their weaknesses
+- Build security-focused tools and proof-of-concepts
+- Develop backend services and utilities in Python
+
+## Future Projects
+- **PyLockWare**  
+  A Python 3 obfuscator focused on:
+  - control-flow obfuscation  
+  - string and constant protection  
+  - anti-debugging and anti-analysis techniques  
+  - increasing the cost of reverse engineering Python code  
+
+## Interests
+- Python code protection
+- Obfuscation strategies
+- Reverse engineering techniques
+- Malware-related obfuscation methods
+- Defensive approaches against code analysis
+
+## Disclaimer
+Projects related to obfuscation, reverse engineering, or malware are created **strictly for educational, research, and defensive purposes**.  
+Any misuse of the code is the responsibility of the user.
 
 ---
-
-### 👋 Привет, я **@amogus-gggy**
-
-> *"Writing code that doesn't just work — but *feels* right."*
-
-Я — разработчик на **Python**, увлечённый созданием **элегантных**, **масштабируемых** и **красивых** приложений. Мой девиз — качество кода и внимание к деталям.
-
-#### 🎯 Текущие интересы:
-- 🐍 **Python** — мой родной язык
-- ⚡ **FastAPI** — для быстрых, надёжных и документированных API
-- 🎨 **Flet** — кроссплатформенные GUI-приложения с минимумом кода
-- 🗃️ **SQL** — точное управление данными
-- 🔐 **Security & Obfuscation** — защита и оптимизация кода
-
----
-
-### 🛠️ Основные проекты
-
-#### 🔐 **PyLock** — Обфускатор для Python 3
-Мощный инструмент для защиты и обфускации Python-кода. Помогает скрыть логику приложения и усложнить реверс-инжиниринг.
-- 🚀 Вскоре на GitHub
-
-#### 💬 **Fmsg-messenger** — Приватный мессенджер
-Безопасный мессенджер с фокусом на приватность и надёжность. Активная разработка.
-- 📍 В разработке
-
-#### 🖥️ **LumoPy IDE** — Интегрированная среда разработки
-IDE для Python с удобным интерфейсом. Поддержки проекта в ближайшее время не будет.
-
----
-
-### 📊 Навыки
-
-```
-Python       🐍  │  FastAPI      ⚡  │  Flet        🎨
-SQL          🗃️  │  MySQL        📊  │  SQLite      💾
-Pydantic     ✅  │  Alembic       🛠️  │  Docker      🐳
-Obfuscation  🔐  │  Security      🛡️  │  REST API    📡
-```
-
----
-
-### 💡 Философия
-
-Я верю в то, что хороший код — это:
-- 📝 Понятный и хорошо документированный
-- ⚙️ Масштабируемый и maintainable
-- 🎯 Решающий реальные проблемы
-- 🚀 Оптимизированный по производительности
-
----
-
