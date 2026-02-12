@@ -1,4 +1,4 @@
-# Python Security & Obfuscation Developer
+# Python Developer
 
 ## About Me
 I am a Python developer focused on **code obfuscation**, **reverse engineering**, and **software protection**.  
@@ -11,8 +11,6 @@ I primarily use Python 3 to build backend services, desktop applications, and se
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)
 ![SQL](https://img.shields.io/badge/SQL-Databases-orange?logo=postgresql)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-Security-red)
-![Obfuscation](https://img.shields.io/badge/Code-Obfuscation-purple)
-![Malware Research](https://img.shields.io/badge/Malware-Research-black)
 
 ## Tech Stack
 ### Core
