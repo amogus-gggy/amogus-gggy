@@ -15,6 +15,13 @@ Backend Developer | FastAPI Enthusiast | Security Tools Builder
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
+Contributions:
+![Nebula](https://github.com/VxidDev/Nebula)
+- refactoring Nebula 0.2.0.
+- adding websockets support (2.0.0)
+- adding session support
+
+---
 
 📌 Active Projects
 
