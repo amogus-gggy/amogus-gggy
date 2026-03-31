@@ -2,7 +2,14 @@
 
 👋 Hi, I'm amogusgggy 
 
-Backend Developer | FastAPI Enthusiast | Security Tools Builder
+I'm python developer from Russia, specializing in backend development and async programming. I like challenges in modern programming, new technologies, and new ways to solve problems. Also, I have some experience in building scaleable and reliable backend infrastructure for small businesses.
+
+---
+
+📫 Connect with me:
+
+
+[Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amogusgggy@mail.ru)
 
 ---
 
@@ -36,9 +43,3 @@ Contributions:
 
 ---
 
-📫 Connect
-
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amogusgggy@mail.ru)
-
----
