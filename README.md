@@ -17,7 +17,7 @@ Backend Developer | FastAPI Enthusiast | Security Tools Builder
 ---
 Contributions:
 
-![Nebula](https://github.com/VxidDev/Nebula)
+[Nebula](https://github.com/VxidDev/Nebula)
 - refactoring Nebula 0.2.0.
 - adding websockets support (2.0.0)
 - adding session support
@@ -28,11 +28,11 @@ Contributions:
 
 
 
-- ![AltAPI](https://github.com/amogus-gggy/AltAPI) - Fast and simple to use ASGI framework written in Python and Cython, with amazing performance(Faster than fastapi)
+- [AltAPI](https://github.com/amogus-gggy/AltAPI) - Fast and simple to use ASGI framework written in Python and Cython, with amazing performance(Faster than fastapi)
 
 
 
-- ![PyLockWare](https://github.com/amogus-gggy/PyLockWare) - Python AST obfuscator.
+- [PyLockWare](https://github.com/amogus-gggy/PyLockWare) - Python AST obfuscator.
 
 ---
 
