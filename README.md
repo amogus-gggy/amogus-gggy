@@ -32,7 +32,7 @@ Contributions:
 
 
 
-- ![PyLockWare](https://github.com/amogus-gggy/PyLockWare) - Python obfuscator.
+- ![PyLockWare](https://github.com/amogus-gggy/PyLockWare) - Python AST obfuscator.
 
 ---
 
