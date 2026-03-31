@@ -28,11 +28,11 @@ Contributions:
 
 
 
-> AltAPI - Fast and simple to use ASGI framework written in Python and Cython, with amazing performance(Faster than fastapi)
+- ![AltAPI](https://github.com/amogus-gggy/AltAPI) - Fast and simple to use ASGI framework written in Python and Cython, with amazing performance(Faster than fastapi)
 
 
 
-> PyLockWare - Python obfuscator.
+- ![PyLockWare](https://github.com/amogus-gggy/PyLockWare) - Python obfuscator.
 
 ---
 
