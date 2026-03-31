@@ -9,7 +9,8 @@ I'm python developer from Russia, specializing in backend development and async 
 📫 Connect with me:
 
 
-![[Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amogusgggy@mail.ru)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=mail.ru&logoColor=white)](mailto:amogusgggy@mail.ru)
+
 
 ---
 
