@@ -1,58 +1,95 @@
+Fedor Kovalenko (amogusgggy)
 
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io)
+[![Flet](https://img.shields.io/badge/Flet-5C2D91?style=flat)](https://flet.dev)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
 
-👋 Hi, I'm amogusgggy 
+Backend Developer | Python Enthusiast | Security & Performance Focused
 
+📍 Korolev, Russia
 
-**Experienced Python Developer Specializing in Backend Development**
+📧 [amogugggy@internet.ru](mailto:amogugggy@internet.ru)
 
-😊 As a seasoned Python developer from Russia, I bring a unique blend of technical expertise and problem-solving skills to the table. My areas of specialization include backend development and async programming, where I excel at tackling complex challenges and delivering scalable, high-performance solutions.
-
-**Specializing in:**
-
-• Backend Development: I have a proven track record of designing and implementing robust, scalable, and maintainable backend systems that meet the needs of small businesses and organizations.
-• Async Programming: I stay at the forefront of the latest async programming trends and best practices, ensuring my solutions are optimized for performance, reliability, and efficiency.
-
-**What drives me:**
-
-I thrive on the thrill of tackling new challenges and exploring the latest technologies and techniques in modern programming. My passion is finding innovative ways to solve complex problems and deliver value to businesses through software development.
+🔗 [github.com/amogus-gggy](https://github.com/amogus-gggy)
 
 ---
 
-📫 Connect with me:
+About Me
 
+I'm a Python developer with a strong focus on backend systems, application security, and high-performance frameworks. I enjoy building tools that push the boundaries of what's possible with Python — from AST-level obfuscation to custom ASGI frameworks.
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=mail.ru&logoColor=white)](mailto:amogusgggy@mail.ru)
-
-
----
-
-🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
----
-Contributions:
-
-[Nebula](https://github.com/VxidDev/Nebula)
-- refactoring Nebula 0.2.0.
-- adding websockets support (2.0.0)
-- adding session support
+My work spans security tooling, web frameworks, and privacy-focused communication platforms.
 
 ---
 
-📌 Active Projects
+Tech Stack
 
-
-
-- [AltAPI](https://github.com/amogus-gggy/AltAPI) - Fast and simple to use ASGI framework written in Python and Cython, with amazing performance(Faster than fastapi)
-
-
-
-- [PyLockWare](https://github.com/amogus-gggy/PyLockWare) - Python AST obfuscator.
+Category	Technologies	
+Languages	Python, SQL	
+Web Frameworks	FastAPI, ASGI	
+Databases & Caching	Redis, SQL	
+UI	Flet (Python-native cross-platform UI)	
 
 ---
 
+Projects
+
+🔒 [PyLockWare SDK](https://github.com/amogus-gggy/PyLockWare)
+
+> Advanced AST obfuscator for Python 3 with anti-analysis capabilities.
+
+A security-focused SDK designed to protect Python source code through multiple layers of obfuscation:
+
+- String Encryption — Encrypts literal strings to prevent static analysis
+- Expression Obfuscation — Transforms and mangles code expressions
+- Expression Virtualization — Converts expressions into custom virtual machine instructions
+- Anti-Analysis — Implements techniques to hinder reverse engineering and dynamic analysis
+
+```bash
+pip install pylockware
+```
+
+---
+
+⚡ [AltAPI](https://github.com/amogus-gggy/AltAPI)
+
+> High-performance ASGI framework for Python backend development.
+
+A lightweight, speed-oriented ASGI framework built from the ground up with performance as the primary goal.
+
+Status: ❄️ Frozen — development paused due to lack of time
+
+Despite being on hold, the project demonstrates custom ASGI implementation and low-level HTTP handling optimizations.
+
+---
+
+💬 [Telecommunicator](https://github.com/amogus-gggy/telecommunicator)
+
+> Self-hosted messenger with end-to-end encryption, built entirely in Python.
+
+A privacy-first messaging application featuring:
+
+- End-to-End Encryption — Secure message delivery without server-side decryption
+- Self-Hosted — Full control over your infrastructure
+- Python-Native Stack — FastAPI backend + Flet cross-platform client
+
+Status: ❄️ Frozen indefinitely — development paused due to lack of time
+
+---
+
+GitHub Stats
+
+---
+
+Get in Touch
+
+- 📧 Email: [amogugggy@internet.ru](mailto:amogugggy@internet.ru)
+- 💻 GitHub: [@amogus-gggy](https://github.com/amogus-gggy)
+
+---
+
+> "Building fast, secure, and self-hosted solutions in Python."
+
+---
