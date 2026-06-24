@@ -1,95 +1,64 @@
-Fedor Kovalenko (amogusgggy)
+# 👋 Hi, I'm Fedor Kovalenko
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io)
-[![Flet](https://img.shields.io/badge/Flet-5C2D91?style=flat)](https://flet.dev)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
-
-Backend Developer | Python Enthusiast | Security & Performance Focused
-
-📍 Korolev, Russia
-
-📧 [amogugggy@internet.ru](mailto:amogugggy@internet.ru)
-
-🔗 [github.com/amogus-gggy](https://github.com/amogus-gggy)
+> GitHub: [@amogusgggy](https://github.com/amogus-gggy)  
+> Location: Korolyov, Russia 🇷🇺  
+> Email: [amogugggy@internet.ru](mailto:amogugggy@internet.ru)
 
 ---
 
-About Me
+## 🛠️ Tech Stack
 
-I'm a Python developer with a strong focus on backend systems, application security, and high-performance frameworks. I enjoy building tools that push the boundaries of what's possible with Python — from AST-level obfuscation to custom ASGI frameworks.
-
-My work spans security tooling, web frameworks, and privacy-focused communication platforms.
-
----
-
-Tech Stack
-
-Category	Technologies	
-Languages	Python, SQL	
-Web Frameworks	FastAPI, ASGI	
-Databases & Caching	Redis, SQL	
-UI	Flet (Python-native cross-platform UI)	
+| Languages & Databases | Frameworks & Tools |
+|:---|:---|
+| Python | FastAPI |
+| SQL | Flet |
+| Redis | |
 
 ---
 
-Projects
+## 📂 Projects
 
-🔒 [PyLockWare SDK](https://github.com/amogus-gggy/PyLockWare)
+### [PyLockWare SDK](https://github.com/amogus-gggy/PyLockWare)
+**Python 3 AST Obfuscator**
 
-> Advanced AST obfuscator for Python 3 with anti-analysis capabilities.
-
-A security-focused SDK designed to protect Python source code through multiple layers of obfuscation:
-
-- String Encryption — Encrypts literal strings to prevent static analysis
-- Expression Obfuscation — Transforms and mangles code expressions
-- Expression Virtualization — Converts expressions into custom virtual machine instructions
-- Anti-Analysis — Implements techniques to hinder reverse engineering and dynamic analysis
-
-```bash
-pip install pylockware
-```
+A powerful code protection toolkit featuring:
+- 🔒 **Anti-analysis** — techniques to hinder reverse engineering
+- 🔐 **String encryption** — hides sensitive string literals
+- 🎭 **Expression obfuscation** — transforms code structure to confuse decompilers
+- ⚡ **Expression virtualization** — converts expressions into custom bytecode
 
 ---
 
-⚡ [AltAPI](https://github.com/amogus-gggy/AltAPI)
+### [AltAPI](https://github.com/amogus-gggy/AltAPI)
+**High-Performance ASGI Backend Framework**
 
-> High-performance ASGI framework for Python backend development.
+A Python backend framework built with a focus on **maximum application performance**.
 
-A lightweight, speed-oriented ASGI framework built from the ground up with performance as the primary goal.
-
-Status: ❄️ Frozen — development paused due to lack of time
-
-Despite being on hold, the project demonstrates custom ASGI implementation and low-level HTTP handling optimizations.
+> ⏸️ **Status: On Hold** — Development is currently paused due to limited time availability.
 
 ---
 
-💬 [Telecommunicator](https://github.com/amogus-gggy/telecommunicator)
+### [Telecommunicator](https://github.com/amogus-gggy/telecommunicator)
+**Self-Hosted E2EE Messenger**
 
-> Self-hosted messenger with end-to-end encryption, built entirely in Python.
+A fully Python-based messaging platform with end-to-end encryption, built with **FastAPI** (backend) and **Flet** (frontend).
 
-A privacy-first messaging application featuring:
-
-- End-to-End Encryption — Secure message delivery without server-side decryption
-- Self-Hosted — Full control over your infrastructure
-- Python-Native Stack — FastAPI backend + Flet cross-platform client
-
-Status: ❄️ Frozen indefinitely — development paused due to lack of time
+> ⏸️ **Status: On Hold** — Development is suspended indefinitely due to time constraints.
 
 ---
 
-GitHub Stats
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amogus-gggy&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
-Get in Touch
+## 🤝 Connect
 
-- 📧 Email: [amogugggy@internet.ru](mailto:amogugggy@internet.ru)
-- 💻 GitHub: [@amogus-gggy](https://github.com/amogus-gggy)
-
----
-
-> "Building fast, secure, and self-hosted solutions in Python."
+Feel free to reach out via [email](mailto:amogugggy@internet.ru) or open an issue in any of my repositories.
 
 ---
+
+*Crafted with Python and caffeine ☕*
