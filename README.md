@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fedor Kovalenko
 
 > GitHub: [@amogusgggy](https://github.com/amogus-gggy)  
-> Location: Korolyov, Russia 🇷🇺  
+> Location: [redacted]  
 > Email: [amogugggy@internet.ru](mailto:amogugggy@internet.ru)
 
 ---
